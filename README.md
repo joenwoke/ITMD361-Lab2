@@ -1,2 +1,2 @@
-# ITMD361-Lab2
-Lab 2
+# Lab2
+ITMD361-Lab2
